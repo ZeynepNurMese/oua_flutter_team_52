@@ -7,18 +7,18 @@ Takım Flutter 52
 ## Takım Elemanları
 - Zeynep Nur Meşe: Scrum Master
 - Sümeyye Aydoğan: Developer
-- Yunus Emre Gürel: Developer
-- Muhammed Mustafa Aksoy: Product Owner / Developer
+- Muhammed Mustafa Aksoy: Developer
+- Yunus Emre Gürel: Product Owner / Developer
 
 ## Ürün İsmi
 
---Scrap App--
+--Match Trip--
 
 ## Ürün Açıklaması
 
-Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait kıymetli geri dönüşüm atıklarının, geri dönüştürülebilir atık toplayan firmalar tarafından toplanmasını kolaylaştırır ve apartman yönetimlerinin bir gelir kalemi olarak geri dönüşüm ödemesi almalarını sağlar. Scrap App, geri dönüştürülebilir atıkların kıymetinine önem verir, apartman ve site gibi, insanların blok halde yaşadığı mekanlarda, geri dönüşüm atıklarını topluca biriktirmelerini teşvik eder ve kolaylaştırır. Scrap App kağıt, metal, plastik ve cam gibi ürünlerin geri dönüştürülmesi halinde, insanların kendisi, çevresi ve ülkesi için maddi gelir ve Dünya doğası için sürekli fayda sağlayabileceğini vurgular ve geri dönüşüm sayesinde yeniden üretim ve madencilik faaliyetlerinin azaltılabileceğini ve böylece yeniden üretim kaynaklı doğaya olan zararın azaltılması gerektiği fikrini destekler ve yeniden kazanımı hedefler.
+Match Trip, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait kıymetli geri dönüşüm atıklarının, geri dönüştürülebilir atık toplayan firmalar tarafından toplanmasını kolaylaştırır ve apartman yönetimlerinin bir gelir kalemi olarak geri dönüşüm ödemesi almalarını sağlar. Match Trip, geri dönüştürülebilir atıkların kıymetinine önem verir, apartman ve site gibi, insanların blok halde yaşadığı mekanlarda, geri dönüşüm atıklarını topluca biriktirmelerini teşvik eder ve kolaylaştırır. Match Trip kağıt, metal, plastik ve cam gibi ürünlerin geri dönüştürülmesi halinde, insanların kendisi, çevresi ve ülkesi için maddi gelir ve Dünya doğası için sürekli fayda sağlayabileceğini vurgular ve geri dönüşüm sayesinde yeniden üretim ve madencilik faaliyetlerinin azaltılabileceğini ve böylece yeniden üretim kaynaklı doğaya olan zararın azaltılması gerektiği fikrini destekler ve yeniden kazanımı hedefler.
 
-Apartman/site sakinleri geri dönüşebilir kıymetli atıkları apartman hizmetlisi tarafından düzenli olarak toplanarak, akıllı geri dönüşüm kutusunda biriktirilir, toplayıcı firma biriken atıklara ilişkin ağırlık ve kutu doluluk oranını uygulama üzerinden görür ve satın alma teklifini apartman yönetimine uygulama ile bildirir, apartman yönetiminin teklif onayından sonra, atık satın alma işlemi gerçekleşir ve Scrap App toplayıcı firmanın yaptığı satın alım ücretinden komisyon ile hizmet ücreti alarak apartman/site yönetimine geri dönüşüm bedelinin ödemesini yapar.
+Apartman/site sakinleri geri dönüşebilir kıymetli atıkları apartman hizmetlisi tarafından düzenli olarak toplanarak, akıllı geri dönüşüm kutusunda biriktirilir, toplayıcı firma biriken atıklara ilişkin ağırlık ve kutu doluluk oranını uygulama üzerinden görür ve satın alma teklifini apartman yönetimine uygulama ile bildirir, apartman yönetiminin teklif onayından sonra, atık satın alma işlemi gerçekleşir ve Match Trip toplayıcı firmanın yaptığı satın alım ücretinden komisyon ile hizmet ücreti alarak apartman/site yönetimine geri dönüşüm bedelinin ödemesini yapar.
 
 ## Ürün Özellikleri
 
