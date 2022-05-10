@@ -36,3 +36,16 @@ Apartman/site sakinlerinin geri dönüşebilir kıymetli atıkları apartman hiz
 - Geri dönüşüm merkezleri
 - Geri dönüşüm atık toplayıcıları
 
+## Sprint 1
+-Sprint Notları:
+-Sprint içinde tamamlanması tahmin edilen puan: 70 puan
+-Puan tamamlama mantığı: Projede tamamlanması gereken toplam 
+Daily Scrum: Daily Scrum toplantıları Whatsapp üzerinden yazışma ve ses kayıtlarıyla gerçekleştirilmiştir.
+![image](https://user-images.githubusercontent.com/73607981/167724484-62fe3282-b772-4920-89b7-88bebffb56e4.png)
+![image](https://user-images.githubusercontent.com/73607981/167724552-30869aa0-956d-4581-b882-3c02f8cca3f5.png)
+![image](https://user-images.githubusercontent.com/73607981/167724706-724ff053-df98-4a2d-b969-6346c1bacf8e.png)
+![image](https://user-images.githubusercontent.com/73607981/167725011-35ceac49-9894-43c8-a268-0640791e0ed7.png)
+
+Sprint Review: Alınan kararlar:
+Sprint Retrospective:
+-Daily Scrum toplantılarının hepsinin Whatsapp üzerinden yapılmama kararı alınmıştır. 
