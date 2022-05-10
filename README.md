@@ -36,3 +36,28 @@ Apartman/site sakinlerinin geri dönüşebilir kıymetli atıkları apartman hiz
 - Geri dönüşüm merkezleri
 - Geri dönüşüm atık toplayıcıları
 
+## Sprint 1
+Sprint Notları:
+Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür.
+
+Daily Scrum: Daily Scrum toplantıları Whatsapp ve meets üzerinden gerçekleştirilmiştir.
+
+Sprint board update:![image](https://user-images.githubusercontent.com/73607981/167725801-d1e220b0-f022-44da-b5b7-f60be31d302f.png)
+![image](https://user-images.githubusercontent.com/73607981/167725994-a7eeff15-cb52-443c-b44f-c317179dda4f.png)
+![image](https://user-images.githubusercontent.com/73607981/167726057-fc6439a7-9cf5-4370-9a06-cd666dae8f61.png)
+![image](https://user-images.githubusercontent.com/73607981/167726108-bbd77ba2-d5db-4593-a182-e62ba76d47f1.png)
+Sprint Review: Alınan kararlar: Kullanıcı girişi google hesabıyla yapılacak. Ardunio kodlarından yararlanılacak. Kutuların doluluk oranının belirlenmesi için şimdilik sensör yerine potansiyometre kullanılacak.
+
+Sprint Retrospective:
+Daily Scrum toplantılarının daha çok meets üzerinden yapılması.
+
+
+
+
+ 
